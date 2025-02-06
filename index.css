@@ -1,0 +1,26 @@
+
+
+.answer-btn {
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.answer-btn.selected {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+
+#quiz-container {
+    margin-block-start: 100px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
